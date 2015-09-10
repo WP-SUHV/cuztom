@@ -8,8 +8,5 @@
         }
     ],
     "require": {
-    },
-    "autoload": {
-        "files": ["cuztom.php"]
     }
 }
